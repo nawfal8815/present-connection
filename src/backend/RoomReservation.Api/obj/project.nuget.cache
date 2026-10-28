@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "adsshy778t8=",
+  "success": true,
+  "projectFilePath": "/home/naoufal/Documents/Projects/PresentConnection/src/backend/RoomReservation.Api/RoomReservation.Api.csproj",
+  "expectedPackageFiles": [
+    "/home/naoufal/.nuget/packages/firebaseadmin/3.7.0/firebaseadmin.3.7.0.nupkg.sha512",
+    "/home/naoufal/.nuget/packages/google.api.gax/4.13.1/google.api.gax.4.13.1.nupkg.sha512",
+    "/home/naoufal/.nuget/packages/google.api.gax.rest/4.13.1/google.api.gax.rest.4.13.1.nupkg.sha512",
+    "/home/naoufal/.nuget/packages/google.apis/1.73.0/google.apis.1.73.0.nupkg.sha512",
+    "/home/naoufal/.nuget/packages/google.apis.auth/1.73.0/google.apis.auth.1.73.0.nupkg.sha512",
+    "/home/naoufal/.nuget/packages/google.apis.core/1.73.0/google.apis.core.1.73.0.nupkg.sha512",
+    "/home/naoufal/.nuget/packages/microsoft.aspnetcore.openapi/10.0.13/microsoft.aspnetcore.openapi.10.0.13.nupkg.sha512",
+    "/home/naoufal/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "/home/naoufal/.nuget/packages/microsoft.entityframeworkcore/10.0.13/microsoft.entityframeworkcore.10.0.13.nupkg.sha512",
+    "/home/naoufal/.nuget/packages/microsoft.entityframeworkcore.abstractions/10.0.13/microsoft.entityframeworkcore.abstractions.10.0.13.nupkg.sha512",
+    "/home/naoufal/.nuget/packages/microsoft.entityframeworkcore.analyzers/10.0.13/microsoft.entityframeworkcore.analyzers.10.0.13.nupkg.sha512",
+    "/home/naoufal/.nuget/packages/microsoft.entityframeworkcore.inmemory/10.0.13/microsoft.entityframeworkcore.inmemory.10.0.13.nupkg.sha512",
+    "/home/naoufal/.nuget/packages/microsoft.openapi/2.12.2/microsoft.openapi.2.12.2.nupkg.sha512",
+    "/home/naoufal/.nuget/packages/newtonsoft.json/13.0.4/newtonsoft.json.13.0.4.nupkg.sha512",
+    "/home/naoufal/.nuget/packages/system.codedom/7.0.0/system.codedom.7.0.0.nupkg.sha512",
+    "/home/naoufal/.nuget/packages/system.management/7.0.2/system.management.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
